@@ -1,3 +1,4 @@
+package Primitive;
 public class datatype {
     static byte b;
     static short s;

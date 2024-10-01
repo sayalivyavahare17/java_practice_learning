@@ -1,3 +1,4 @@
+package Primitive;
 public class underscore {
     public static void main(String[] args) {
         byte var = 0b11_10;
